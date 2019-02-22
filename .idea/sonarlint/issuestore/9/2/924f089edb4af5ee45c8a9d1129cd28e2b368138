@@ -1,0 +1,13 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦ÿÔ‚8å«Ç²-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(â¾Ñe8—‡É²-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘‡ŸÈ8£î÷˜-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8œ™àº-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÓ†÷ÿÿÿÿÿ8—‡É²-
+1squid:S1220""Move this file to a named package.
+Wsquid:UselessImportCheck"'Remove this unused import 'com.Rocket'.(¦Şˆÿÿÿÿÿÿ8œ™àº-
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8µÖ­µ-

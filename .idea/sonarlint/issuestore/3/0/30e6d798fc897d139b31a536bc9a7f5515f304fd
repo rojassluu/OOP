@@ -1,0 +1,6 @@
+
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ËôÒÒýÿÿÿÿ8¦­øº-
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ÍäÊÔøÿÿÿÿ8¦­øº-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8¦­øº-
+jsquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(‰‹ó±8”Ùª¯-
